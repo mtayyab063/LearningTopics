@@ -10,6 +10,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
+|[W3School: Learning Basics of Python and related libraries](https://www.w3schools.com/python/default.asp)|✅|
 |[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✅|
 |[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✅|
 |[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|✅|
